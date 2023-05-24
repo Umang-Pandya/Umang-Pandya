@@ -19,13 +19,7 @@ Umang Pandya is a tech professional with 10+ years of experience in Business and
 
 Languages and Tools: 
 
-<img alt="Python" src="https://img.shields.io/badge/python-v3.7-blue.svg?style=flat&logoColor=white"/> 
-<img alt="Django" src=["https://img.shields.io/badge/python-v3.7-blue.svg?style=flat&logoColor=orange"](https://img.shields.io/badge/Django-Full%20Stack-yellowgreen)/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-v3.7-blue.svg?style=flat&logoColor=white"/> <img alt="Django" src=https://img.shields.io/badge/Django-Full%20Stack-yellowgreen/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Umang-Pandya&theme=react-dark&area=true)
 <!--
